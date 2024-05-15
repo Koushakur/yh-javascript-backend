@@ -1,0 +1,66 @@
+$color-black: #0b0f19;
+$color-white: #ffffff;
+$color-background-violet: #f3f6ff;
+$color-text-footer: #9397ad;
+$color-gray-300: #e2e5f1;
+$color-gray-400: #d4d7e5;
+$color-gray-500: #B4B7C9;
+$color-gray-600: #9397AD;
+$color-gray-700: #565973;
+$color-gray-800: #33354D;
+
+$color-accent: #6366f1;
+$color-button-pale: #eff2fc;
+$color-button-dark: $color-accent;
+
+$color-error: #EF4444;
+$color-success: #22C55E;
+$color-warning: #FFBA08;
+$color-info: #4C82F7;
+
+$color-checkbox-checked-hover: rgba($color-accent, 0.8);
+
+$bs-s: 576px;
+$bs-m: 768px;
+$bs-l: 992px;
+$bs-xl: 1200px;
+$bs-xxl: 1400px;
+
+@mixin media-s {
+   @media(min-width: 576px) {
+      @content;
+   }
+}
+
+@mixin media-m {
+   @media(min-width: 768px) {
+      @content;
+   }
+}
+
+@mixin media-l {
+   @media(min-width: 992px) {
+      @content;
+   }
+}
+
+@mixin media-xl {
+   @media(min-width: 1200px) {
+      @content;
+   }
+}
+
+@mixin media-xxl {
+   @media(min-width: 1400px) {
+      @content;
+   }
+}
+
+@mixin transition($props: (color background-color), $duration: 0.3s) {
+   transition-property: $props;
+   transition-duration: $duration;
+}
+
+@mixin boxshadow {
+   box-shadow: 0 5px 15px $color-gray-500;
+}
