@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|c:\\yh\\06-js-backend\\inlamningsuppgift\\microsiliconservices\\coursesapi.infrastructure\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|solutionrelative:coursesapi.infrastructure\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|c:\\yh\\06-js-backend\\inlamningsuppgift\\microsiliconservices\\coursesapi.infrastructure\\gql\\coursequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|solutionrelative:coursesapi.infrastructure\\gql\\coursequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|c:\\yh\\06-js-backend\\inlamningsuppgift\\microsiliconservices\\coursesapi.infrastructure\\gql\\coursemutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C505CA-51D6-479B-9DDA-CB42A0A33FAD}|CoursesAPI.Infrastructure\\CoursesAPI.Infrastructure.csproj|solutionrelative:coursesapi.infrastructure\\gql\\coursemutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972CF833-19AA-41C2-900F-ADADF6B34AD4}|CoursesAPI\\CoursesAPI.csproj|c:\\yh\\06-js-backend\\inlamningsuppgift\\microsiliconservices\\coursesapi\\functions\\graphql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972CF833-19AA-41C2-900F-ADADF6B34AD4}|CoursesAPI\\CoursesAPI.csproj|solutionrelative:coursesapi\\functions\\graphql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972CF833-19AA-41C2-900F-ADADF6B34AD4}|CoursesAPI\\CoursesAPI.csproj|c:\\yh\\06-js-backend\\inlamningsuppgift\\microsiliconservices\\coursesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972CF833-19AA-41C2-900F-ADADF6B34AD4}|CoursesAPI\\CoursesAPI.csproj|solutionrelative:coursesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1101,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphQL.cs",
+              "DocumentMoniker": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI\\Functions\\GraphQL.cs",
+              "RelativeDocumentMoniker": "CoursesAPI\\Functions\\GraphQL.cs",
+              "ToolTip": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI\\Functions\\GraphQL.cs",
+              "RelativeToolTip": "CoursesAPI\\Functions\\GraphQL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:04:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoursesAPI\\Program.cs",
+              "ToolTip": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI\\Program.cs",
+              "RelativeToolTip": "CoursesAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:50:24.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseMutation.cs",
+              "DocumentMoniker": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\GQL\\CourseMutation.cs",
+              "RelativeDocumentMoniker": "CoursesAPI.Infrastructure\\GQL\\CourseMutation.cs",
+              "ToolTip": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\GQL\\CourseMutation.cs",
+              "RelativeToolTip": "CoursesAPI.Infrastructure\\GQL\\CourseMutation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:59:42.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseQuery.cs",
+              "DocumentMoniker": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\GQL\\CourseQuery.cs",
+              "RelativeDocumentMoniker": "CoursesAPI.Infrastructure\\GQL\\CourseQuery.cs",
+              "ToolTip": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\GQL\\CourseQuery.cs",
+              "RelativeToolTip": "CoursesAPI.Infrastructure\\GQL\\CourseQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:50:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "CoursesAPI.Infrastructure\\Services\\CourseService.cs",
+              "ToolTip": "C:\\YH\\06-js-backend\\inlamningsuppgift\\MicroSiliconServices\\CoursesAPI.Infrastructure\\Services\\CourseService.cs",
+              "RelativeToolTip": "CoursesAPI.Infrastructure\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:44:27.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 407,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

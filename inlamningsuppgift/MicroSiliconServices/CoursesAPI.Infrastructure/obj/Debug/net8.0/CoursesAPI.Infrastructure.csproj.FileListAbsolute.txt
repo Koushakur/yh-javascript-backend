@@ -1,0 +1,13 @@
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\bin\Debug\net8.0\CoursesAPI.Infrastructure.deps.json
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\bin\Debug\net8.0\CoursesAPI.Infrastructure.dll
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\bin\Debug\net8.0\CoursesAPI.Infrastructure.pdb
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.AssemblyInfo.cs
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.sourcelink.json
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.dll
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\refint\CoursesAPI.Infrastructure.dll
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\CoursesAPI.Infrastructure.pdb
+C:\YH\06-js-backend\inlamningsuppgift\MicroSiliconServices\CoursesAPI.Infrastructure\obj\Debug\net8.0\ref\CoursesAPI.Infrastructure.dll
