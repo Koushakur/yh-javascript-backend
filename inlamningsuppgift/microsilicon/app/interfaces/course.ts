@@ -9,5 +9,6 @@ export interface Course {
    likes: number
    likePercentage: number
    bestSeller: boolean
+   description: string
    content: string
 }

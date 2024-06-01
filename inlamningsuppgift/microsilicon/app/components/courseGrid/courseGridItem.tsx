@@ -1,5 +1,6 @@
 import { Course } from "@/app/interfaces/course"
 import Image from "next/image"
+import Link from "next/link"
 
 interface CourseProp {
    course: Course
@@ -20,11 +21,11 @@ export default function CourseGridItem({ course }: CourseProp) {
    return (
       <div className="content">
          {course.bestSeller == true && <span className="bestseller">Best Seller</span>}
-         <Image src={"/" + course.imageURL} width={416} height={240} alt="" />
+         <Link href={`/courses/details?id=${course.id}`}><Image src={"/" + course.imageURL} width={416} height={240} alt="" /></Link>
          <span className="fa-regular fa-bookmark"></span>
          <div className="textBox">
 
-            <h5>{course.title}</h5>
+            <Link href={`/courses/details?id=${course.id}`}><h5>{course.title}</h5></Link>
             <p className="author">By {course.author}</p>
 
             {course.priceDiscounted != null ?

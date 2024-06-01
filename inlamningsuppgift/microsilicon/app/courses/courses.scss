@@ -34,10 +34,14 @@
             box-shadow: 0 5px 10px $color-gray-500;
             overflow: hidden;
 
+            h5 {
+               color: $color-black;
+            }
+
             img {
                object-fit: cover;
                height: 240px;
-               width: 100%;
+               width: auto;
             }
 
             .bestseller {

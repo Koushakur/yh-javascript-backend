@@ -56,6 +56,10 @@ $bs-xxl: 1400px;
    }
 }
 
+@mixin p-m {
+   font-size: 16px;
+}
+
 @mixin transition($props: (color background-color), $duration: 0.3s) {
    transition-property: $props;
    transition-duration: $duration;

@@ -1,0 +1,32 @@
+#courseDetails {
+   margin-top: 7vh;
+
+   .container {
+
+      .courseInformation {
+         background-color: $color-background-violet;
+         padding: 16px 32px;
+         border-radius: 25px;
+
+         img {
+            object-fit: cover;
+            float: right;
+
+            margin-left: 50px;
+            margin-bottom: 10px;
+
+            border-radius: 5px;
+            @include boxshadow();
+         }
+
+         .authors {
+            font-size: 14px;
+            color: $color-text-footer;
+         }
+      }
+
+      .content {
+         margin-top: 10vh;
+      }
+   }
+}
