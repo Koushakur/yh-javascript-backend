@@ -2,11 +2,7 @@ import { Course } from "@/app/interfaces/course"
 import Image from "next/image"
 import Link from "next/link"
 
-interface CourseProp {
-   course: Course
-}
-
-export default function CourseGridItem({ course }: CourseProp) {
+export default function CourseGridItem(course: Course) {
 
    function formatLikes(num: number) {
       if (num >= 1000000)

@@ -54,9 +54,11 @@ export default function Courses() {
             </div>
 
             <div className="gridBox">
-               {coursesData.map(c =>
-                  <CourseGridItem key={c.id} course={c} />
-               )}
+               {
+                  coursesData.length == 0
+                     ? <p>Loading courses...</p>
+                     : coursesData.map(c => <CourseGridItem key={c.id} {...c} />)
+               }
             </div>
 
             <div className="pagination"></div>

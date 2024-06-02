@@ -10,12 +10,12 @@ export default function Header() {
          <div className="container">
             <div className="logo-nav">
                <Link href={"/"}>
-                  <Image src="./images/logos/Silicon-LightMode.svg" alt="" width={130} height={45} />
+                  <Image src="/images/logos/Silicon-LightMode.svg" alt="" width={130} height={45} />
                </Link>
                <nav>
                   <Link href={"/"}>Overview</Link>
                   <Link href={"/"}>Features</Link>
-                  <Link href={"/"}>Contact</Link>
+                  <Link href={"/account/details"}>Acc. Details</Link>
                   <Link href={"/courses"}>Courses</Link>
                </nav>
             </div>
